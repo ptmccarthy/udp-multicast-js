@@ -5,10 +5,7 @@
     "repository": "https://github.com/ptmccarthy/udp-multicast-js.git",
     "author": "Patrick McCarthy <p.t.mccarthy@gmail.com>",
     "license": "MIT",
-    "dependencies": {
-        "express": "latest",
-        "speaker": "latest"
-    },
+    "dependencies": {},
     "main": "index",
     "engines": {
         "node": ">= 0.12.6"
