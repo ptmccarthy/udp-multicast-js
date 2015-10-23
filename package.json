@@ -1,12 +1,13 @@
 {
-    "name": "presenter",
+    "name": "udp-multicast-js",
     "version": "0.0.1",
-    "description": "Presenter",
-    "repository": "https://github.com/ptmccarthy/presenter.git",
-    "homepage": "http://ptmccarthy.github.com/presenter/",
+    "description": "Simple UDP Multicast Server & Client",
+    "repository": "https://github.com/ptmccarthy/udp-multicast-js.git",
     "author": "Patrick McCarthy <p.t.mccarthy@gmail.com>",
+    "license": "MIT",
     "dependencies": {
-        "express": "latest"
+        "express": "latest",
+        "speaker": "latest"
     },
     "main": "index",
     "engines": {
