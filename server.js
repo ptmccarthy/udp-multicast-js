@@ -1,5 +1,5 @@
-var dgram = require('dgram'); 
-var server = dgram.createSocket("udp4"); 
+var dgram = require('dgram');
+var server = dgram.createSocket('udp4');
 
 var PORT = 4000;
 
